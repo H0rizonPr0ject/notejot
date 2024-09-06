@@ -18,7 +18,7 @@ msgstr ""
 
 #: data/io.github.lainsce.Notejot.appdata.xml.in:7
 #: data/io.github.lainsce.Notejot.desktop.in:4
-#: Horizon translation for following 2 strings was done by DeepL
+#: Following strings were added for Horizon Notejot fork. They were translated by DeepL
 msgid "Notes"
 msgstr "Poznámky"
 msgid "Simple notes app"
