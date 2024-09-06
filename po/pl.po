@@ -7,7 +7,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-28 01:33-0300\n"
 "PO-Revision-Date: 2021-11-12 15:03+0100\n"
-"Last-Translator: Rafał Baran <>\n" # official Notejot Translation, Different App name and Description for Horizon Translated by Microwave from Horizon Team. MIssing Translations also by Mirowave
+"Last-Translator: Rafał Baran <>\n"
+# official Notejot Translationwas done by Rafał Baran Different App name and Description for Horizon Translated by Microwave from Horizon Team. MIssing Translations also by Mirowave
 "Language-Team: Polish <>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
