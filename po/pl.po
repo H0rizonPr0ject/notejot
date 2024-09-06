@@ -20,7 +20,7 @@ msgstr ""
 
 #: data/io.github.lainsce.Notejot.appdata.xml.in:7
 #: data/io.github.lainsce.Notejot.desktop.in:4
-#: translation for horizon added an modified by Microwave
+#: Following strings were added for Horizon Notejot fork. THey were translated by Microwave
 msgid "Notes"
 msgstr "Notatki"
 msgid "Simple notes app"
