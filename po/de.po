@@ -37,22 +37,22 @@ msgstr ""
 # Missing translation done by Costope
 #: data/io.github.lainsce.Notejot.appdata.xml.in:11
 msgid "🟡 Color your notes in 8 different colors"
-msgstr ""
+msgstr "here enter translation"
 
 # Missing translation done by Costope
 #: data/io.github.lainsce.Notejot.appdata.xml.in:12
 msgid "📓 Classify them in notebooks"
-msgstr ""
+msgstr "here enter translation"
 
 # Missing translation done by Costope
 #: data/io.github.lainsce.Notejot.appdata.xml.in:13
 msgid "🔤 Format text to your liking"
-msgstr ""
+msgstr "here enter translation"
 
 # Missing translation done by Costope
 #: data/io.github.lainsce.Notejot.appdata.xml.in:14
 msgid "📌 Pin your most important ones"
-msgstr ""
+msgstr "here enter translation"
 
 #: data/io.github.lainsce.Notejot.appdata.xml.in:50
 #, fuzzy
