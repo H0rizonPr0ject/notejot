@@ -5,6 +5,7 @@ msgstr ""
 "POT-Creation-Date: 2021-11-28 01:33-0300\n"
 "PO-Revision-Date: 2021-11-08 16:15+0100\n"
 "Last-Translator: Onno Giesmann <nutzer3105@gmail.com>\n"
+# official Notejot Translationwas done by Onno Giesmann Different App name and Description for Horizon Translated by Costope from Horizon Team. Missing Translations also done by Costope
 "Language-Team: \n"
 "Language: de_DE\n"
 "MIME-Version: 1.0\n"
@@ -29,18 +30,22 @@ msgstr ""
 "Eine total einfache Notizen-Anwendung für so ziemlich jede Art von kleinen "
 "Notizen oder Ideen."
 
+# Missing translation done by Costope
 #: data/io.github.lainsce.Notejot.appdata.xml.in:11
 msgid "🟡 Color your notes in 8 different colors"
 msgstr ""
 
+# Missing translation done by Costope
 #: data/io.github.lainsce.Notejot.appdata.xml.in:12
 msgid "📓 Classify them in notebooks"
 msgstr ""
 
+# Missing translation done by Costope
 #: data/io.github.lainsce.Notejot.appdata.xml.in:13
 msgid "🔤 Format text to your liking"
 msgstr ""
 
+# Missing translation done by Costope
 #: data/io.github.lainsce.Notejot.appdata.xml.in:14
 msgid "📌 Pin your most important ones"
 msgstr ""
