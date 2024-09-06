@@ -18,7 +18,7 @@ msgstr ""
 
 #: data/io.github.lainsce.Notejot.appdata.xml.in:7
 #: data/io.github.lainsce.Notejot.desktop.in:4
-#: Following strings were added for Horizon Notejot fork. They were translated by Costope
+#: Following strings were added for Horizon Notejot fork. They were translated by andrew64dev
 msgid "Notes"
 msgstr "here enter translation"
 msgid "Simple notes app"
