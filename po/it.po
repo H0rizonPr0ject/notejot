@@ -18,8 +18,12 @@ msgstr ""
 
 #: data/io.github.lainsce.Notejot.appdata.xml.in:7
 #: data/io.github.lainsce.Notejot.desktop.in:4
-msgid "Jot your ideas"
-msgstr "Annota le tue idee"
+#: Following strings were added for Horizon Notejot fork. They were translated by Costope
+msgid "Notes"
+msgstr "here enter translation"
+msgid "Simple notes app"
+msgstr "here enter translation"
+# end of Horizon Notejot fork strings
 
 #: data/io.github.lainsce.Notejot.appdata.xml.in:9
 msgid ""
