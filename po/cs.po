@@ -8,7 +8,7 @@ msgstr ""
 "POT-Creation-Date: 2021-11-28 01:33-0300\n"
 "PO-Revision-Date: 2021-12-23 17:34+0100\n"
 "Last-Translator: Jan Kožíšek <janxkozisek@gmail.com>\n"
-# some were translation added for Horizon  using DeepL we are sorry for translation errors
+# some were translations added for Horizon  using DeepL we are sorry for translation errors
 "Language-Team: čeština <>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
