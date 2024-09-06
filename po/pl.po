@@ -19,6 +19,7 @@ msgstr ""
 
 #: data/io.github.lainsce.Notejot.appdata.xml.in:7
 #: data/io.github.lainsce.Notejot.desktop.in:4
+#: translation for horizon added an modified by Microwave
 msgid "Notes"
 msgstr "Notatki"
 msgid "Simple notes app"
@@ -33,20 +34,24 @@ msgstr ""
 "pomysłów."
 
 #: data/io.github.lainsce.Notejot.appdata.xml.in:11
+#: translation added by Microwave
 msgid "🟡 Color your notes in 8 different colors"
-msgstr ""
+msgstr "🟡 Pokoloruj swoje notatki na 8 różnych kolorów"
 
 #: data/io.github.lainsce.Notejot.appdata.xml.in:12
+#: translation added by Microwave
 msgid "📓 Classify them in notebooks"
-msgstr ""
+msgstr "📓 Uszerejguj je w zeszyty"
 
 #: data/io.github.lainsce.Notejot.appdata.xml.in:13
+#: translation added by Microwave
 msgid "🔤 Format text to your liking"
-msgstr ""
+msgstr "🔤 Formatuj tekst jak tylko chcesz"
 
 #: data/io.github.lainsce.Notejot.appdata.xml.in:14
+#: translation added by Microwave
 msgid "📌 Pin your most important ones"
-msgstr ""
+msgstr "📌 Przypinaj swoje najważniejsze notatki"
 
 #: data/io.github.lainsce.Notejot.appdata.xml.in:50
 msgid "Release: Overhaul User Interface"
