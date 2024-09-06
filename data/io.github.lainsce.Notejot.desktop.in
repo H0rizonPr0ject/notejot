@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Notes
-Comment=Simple Notes App
+Comment=Simple notes app
 Exec=@app_id@
 Icon=io.github.lainsce.Notejot
 Keywords=text;plain;plaintext;notepad;notes;sticky;post-it;
