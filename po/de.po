@@ -17,10 +17,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SearchPath-0: .\n"
 
+#: Horizon translation for following 2 strings were done by Costope
 #: data/io.github.lainsce.Notejot.appdata.xml.in:7
 #: data/io.github.lainsce.Notejot.desktop.in:4
-msgid "Jot your ideas"
-msgstr "Notieren Sie Ihre Ideen"
+msgid "Notes"
+msgstr "here enter translation"
+msgid "Simple notes app"
+msgstr "here enter translation"
 
 #: data/io.github.lainsce.Notejot.appdata.xml.in:9
 msgid ""
